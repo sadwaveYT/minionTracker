@@ -1,0 +1,2 @@
+# minionTracker
+This Hypixel Skyblock mod is built to help your skyblock experience. The command /miniontracker will open your minion gui. Then you can track if your minions are active or full. You can also see how much minions you have placed and what tier level they are. You can also see the current bazaar sell value of the items in your minions. I chat warning will be sent when you claim a minion saying its bazaar sell value. This mod can be useful in a few ways as it is an improvement to settings in other mods.
